@@ -1,0 +1,17 @@
+Craps:
+	Dice Class
+	Constructor to create new game
+	Play method implementation
+		2 dice objects
+		First throw - win/loss
+		Point rolls
+		Return value
+	Main Class
+		Create game
+		Play 100000 times
+		Display Win %
+
+
+Create the dice in the constructor -- not as class level instances.
+
+38/40
